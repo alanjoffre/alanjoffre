@@ -60,8 +60,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 25/02/2023 - </a><br>
-<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes do zero a produção </a>
+<a id="inicio"> 25/02/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes do zero a produção </a><br>
 <a id="inicio"> 24/02/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/web-scraping/buscar-noticias-empresa"> Web Scraping - Buscar / Noticias / Empresa </a><br>
 <a id="inicio"> 23/02/2023 - </a>
