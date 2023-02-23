@@ -60,6 +60,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 24/02/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/web-scraping/buscar-noticias-empresa"> Web Scraping - Buscar / Noticias / Empresa </a><br>
 <a id="inicio"> 23/02/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/streamlit"> StreamLit - Dashboard </a><br>
 <a id="inicio"> 22/02/2023 - </a>
@@ -72,8 +74,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/fastapi/tree/master/crud/fastapi-docker-redis-json-crud"> FastAPI II  </a><br>
 <a id="inicio"> 18/02/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/fastapi/tree/master/crud/fastapi-backend-frontend-crud-sort-pagination"> FastAPI I </a><br>
-<a id="inicio"> 17/02/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/django/tree/master/crud/crud-postgresql-employee-project"> Django - Crud </a><br>
 </div>
 
 <div align="center">
