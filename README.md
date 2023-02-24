@@ -74,8 +74,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/kafka/tree/master/kafka-windows"> Kafka - windows </a><br>
 <a id="inicio"> 20/02/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/database/tree/master/webstreams"> WebStreams </a><br>
-<a id="inicio"> 19/02/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/fastapi/tree/master/crud/fastapi-docker-redis-json-crud"> FastAPI II  </a><br>
 </div>
 
 <div align="center">
