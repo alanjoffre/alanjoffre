@@ -61,7 +61,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 27/02/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes do zero a produção </a><br>o q
+<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes do zero a produção </a><br>
 <a id="inicio"> 26/02/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/database/tree/master/fluxo-dados-streaming"> Fluxo de dados - Streaming  </a><br>
 <a id="inicio"> 25/02/2023 - </a>
@@ -74,8 +74,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/master/projetos-bibliotecas-estudos/kaleido-pdf-relatorio"> API - PDF - Relatório </a><br>
 <a id="inicio"> 21/02/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kafka/tree/master/kafka-windows"> Kafka - windows </a><br>
-<a id="inicio"> 20/02/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/database/tree/master/webstreams"> WebStreams </a><br>
 </div>
 
 <div align="center">
