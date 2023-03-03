@@ -60,8 +60,6 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 04/03/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/voila"> Python - Voilà - Dashboards - Jupyter Notebook </a><br>
 <a id="inicio"> 03/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/sweetviz"> Python - Dashboard </a><br>
 <a id="inicio"> 02/03/2023 - </a> 
