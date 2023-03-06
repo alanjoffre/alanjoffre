@@ -60,17 +60,21 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 04/03/2023 - </a>
+<a id="inicio"> 08/03/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/json"> Json </a><br>
+<a id="inicio"> 07/3/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a><br>
+<a id="inicio"> 06/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/docker/tree/master/docker"> Docker do zero a produção </a><br>
-<a id="inicio"> 03/03/2023 - </a> 
+<a id="inicio"> 05/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/sweetviz"> Python - Dashboard </a><br>
-<a id="inicio"> 02/03/2023 - </a> 
+<a id="inicio"> 04/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes do zero a produção </a><br>
-<a id="inicio"> 01/03/2023 - </a> 
+<a id="inicio"> 03/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/database/tree/master/fluxo-dados-streaming"> Fluxo de dados - Streaming  </a><br>
-<a id="inicio"> 28/02/2023 - </a>
+<a id="inicio"> 02/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-kind-cluster"> Kubernetes - Kind - Cluster </a><br>
-<a id="inicio"> 27/02/2023 - </a>
+<a id="inicio"> 01/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/web-scraping/buscar-noticias-empresa"> Web Scraping - Buscar / Noticias / Empresa </a><br>
 <a id="inicio"> 26/02/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/streamlit"> StreamLit - Dashboard </a><br>
