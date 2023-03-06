@@ -47,6 +47,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/html"> Html </a> |
 <a id="inicio" href="https://github.com/alanjoffre/javascript"> JavaScript </a> |
 <a id="inicio" href="https://github.com/alanjoffre/jquery"> Jquery </a> |
+<a id="inicio" href="https://github.com/alanjoffre/json"> Json </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Kafka </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes"> Kubernetes </a> |
 <a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> |
@@ -54,6 +55,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Powerbi </a> |
 <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> |
 <a id="inicio" href="https://github.com/alanjoffre/react"> React </a> |
+<a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a> |
 <a id="inicio" href="https://github.com/alanjoffre/vue"> Vue </a> |
 <a id="inicio" href="https://github.com/alanjoffre/webpack"> Webpack </a> |
 <a id="inicio" href="https://github.com/alanjoffre/wsl2"> Wsl2 </a><br>
@@ -62,7 +64,7 @@
 <div align="left">
 <a id="inicio"> 08/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/json"> Json </a><br>
-<a id="inicio"> 07/3/2023 - </a>
+<a id="inicio"> 07/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a><br>
 <a id="inicio"> 06/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/docker/tree/master/docker"> Docker do zero a produção </a><br>
