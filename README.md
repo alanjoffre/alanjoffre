@@ -63,9 +63,9 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 23/03/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-kind-cluster"> Kubernetes - Kind - Cluster </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-kind-cluster"> Kubernetes </a><br>
 <a id="inicio"> 22/03/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/docker/tree/master/docker"> Docker do zero a produção </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/docker/tree/master/docker"> Docker </a><br>
 <a id="inicio"> 21/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/json"> Json </a><br>
 <a id="inicio"> 20/03/2023 - </a>
@@ -73,7 +73,7 @@
 <a id="inicio"> 19/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/sweetviz"> Python - Dashboard </a><br>
 <a id="inicio"> 18/03/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes do zero a produção </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes </a><br>
 <a id="inicio"> 17/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/database/tree/master/fluxo-dados-streaming"> Fluxo de dados - Streaming  </a><br>
 </div>
