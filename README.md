@@ -74,8 +74,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a><br>
 <a id="inicio"> 22/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/main/projetos-bibliotecas-estudos/sweetviz"> Python </a><br>
-<a id="inicio"> 21/03/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-do-zero-a-producao"> Kubernetes </a><br>
 </div>
 
 <div align="center">
