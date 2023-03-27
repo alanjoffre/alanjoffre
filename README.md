@@ -63,7 +63,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 27/03/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/database/tree/master/fluxo-dados-streaming"> Python - Dashboard - Covid19 </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/python/tree/master/bibliotecas-estudos-projetos/dashboard/covid19"> Python - Dashboard - Covid19 </a><br>
 <a id="inicio"> 26/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-kind-cluster"> Kubernetes </a><br>
 <a id="inicio"> 25/03/2023 - </a>
