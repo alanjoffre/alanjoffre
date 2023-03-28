@@ -62,6 +62,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 28/03/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-naives-bayes"> Machine Learning - Naive Bayes </a><br>
 <a id="inicio"> 27/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/master/bibliotecas-estudos-projetos/dashboard/covid19"> Python - Dashboard - Covid19 </a><br>
 <a id="inicio"> 26/03/2023 - </a>
