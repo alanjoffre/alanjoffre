@@ -62,17 +62,19 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 30/03/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-decision-trees"> Machine Learning - Decision Trees </a><br>
+<a id="inicio"> 29/03/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-naive-bayes"> Machine Learning - Naive Bayes </a><br>
 <a id="inicio"> 28/03/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-naives-bayes"> Machine Learning - Naive Bayes </a><br>
-<a id="inicio"> 27/03/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/master/bibliotecas-estudos-projetos/dashboard/covid19"> Python - Dashboard - Covid19 </a><br>
-<a id="inicio"> 26/03/2023 - </a>
+<a id="inicio"> 27/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes/tree/master/kubernetes-kind-cluster"> Kubernetes </a><br>
-<a id="inicio"> 25/03/2023 - </a>
+<a id="inicio"> 26/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/docker/tree/master/docker"> Docker </a><br>
-<a id="inicio"> 24/03/2023 - </a>
+<a id="inicio"> 25/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/json"> Json </a><br>
-<a id="inicio"> 23/03/2023 - </a>
+<a id="inicio"> 24/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a><br>
 </div>
 
