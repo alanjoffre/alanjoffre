@@ -62,6 +62,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 04/04/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Machine Learning - Feature Selection </a><br>
 <a id="inicio"> 03/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-decision-trees"> Machine Learning - Decision Trees </a><br>
 <a id="inicio"> 02/04/2023 - </a> 
@@ -74,8 +76,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/docker/tree/master/docker"> Docker </a><br>
 <a id="inicio"> 27/03/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/json"> Json </a><br>
-<a id="inicio"> 26/03/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a><br>
 </div>
 
 <div align="center">
