@@ -63,7 +63,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 05/04/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Chi2 </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Machine Learning - Feature Selection - Chi2 </a><br>
 <a id="inicio"> 04/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Machine Learning - Feature Selection </a><br>
 <a id="inicio"> 03/04/2023 - </a>
