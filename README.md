@@ -63,7 +63,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 10/04/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/instagram-reach-analysis-and-prediction"> Instagram Reach Analysis and-Prediction  </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/instagram-reach-analysis-and-prediction"> Instagram Reach Analysis and Prediction  </a><br>
 <a id="inicio"> 09/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Machine Learning - Feature Selection - Chi2 / F-Value / RFE </a><br>
 <a id="inicio"> 08/04/2023 - </a>
