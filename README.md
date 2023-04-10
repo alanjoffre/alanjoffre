@@ -62,13 +62,15 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 05/04/2023 - </a>
+<a id="inicio"> 10/04/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/instagram-reach-analysis-and-prediction"> Instagram Reach Analysis and-Prediction  </a><br>
+<a id="inicio"> 09/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Machine Learning - Feature Selection - Chi2 / F-Value / RFE </a><br>
-<a id="inicio"> 04/04/2023 - </a>
+<a id="inicio"> 08/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-decision-trees"> Machine Learning - Decision Trees </a><br>
-<a id="inicio"> 03/04/2023 - </a> 
+<a id="inicio"> 07/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-naive-bayes"> Machine Learning - Naive Bayes </a><br>
-<a id="inicio"> 02/04/2023 - </a> 
+<a id="inicio"> 06/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/master/bibliotecas-estudos-projetos/dashboard/covid19"> Python - Dashboard - Covid19 </a><br>
 </div>
 
