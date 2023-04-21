@@ -36,7 +36,8 @@
 <a id="inicio" href="https://github.com/alanjoffre/ajax"> Ajax </a> |
 <a id="inicio" href="https://github.com/alanjoffre/artificial-intelligence"> Artificial Intelligence </a> |
 <a id="inicio" href="https://github.com/alanjoffre/bootstrap"> Bootstrap </a> |
-<a id="inicio" href="https://github.com/alanjoffre/c"> C </a> | 
+<a id="inicio" href="https://github.com/alanjoffre/c"> C </a> |
+<a id="inicio" href="https://github.com/alanjoffre/cloud-computing"> Cloud Computing </a> |
 <a id="inicio" href="https://github.com/alanjoffre/css"> CSS </a> |
 <a id="inicio" href="https://github.com/alanjoffre/data-engineering"> Data Engineering </a> |
 <a id="inicio" href="https://github.com/alanjoffre/database"> Database </a> |
@@ -64,15 +65,15 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 18/04/2023 - </a> 
+<a id="inicio"> 21/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/instagram-reach-analysis-and-prediction"> Instagram Reach Analysis and Prediction  </a><br>
-<a id="inicio"> 17/04/2023 - </a>
+<a id="inicio"> 20/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> Machine Learning - Feature Selection - Chi2 / F-Value / RFE </a><br>
-<a id="inicio"> 16/04/2023 - </a>
+<a id="inicio"> 19/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-decision-trees"> Machine Learning - Decision Trees </a><br>
-<a id="inicio"> 15/04/2023 - </a> 
+<a id="inicio"> 18/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-naive-bayes"> Machine Learning - Naive Bayes </a><br>
-<a id="inicio"> 14/04/2023 - </a> 
+<a id="inicio"> 17/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/python/tree/master/bibliotecas-estudos-projetos/dashboard/covid19"> Python - Dashboard - Covid19 </a><br>
 </div>
 
