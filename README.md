@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 28/04/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> BI - Análise Estoque </a><br>
 <a id="inicio"> 27/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/api"> API </a><br>
 <a id="inicio"> 26/04/2023 - </a> 
