@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 29/04/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-funcionarios"> Power BI - Análise Funcionários </a><br>
 <a id="inicio"> 28/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Análise Estoque </a><br>
 <a id="inicio"> 27/04/2023 - </a> 
@@ -76,8 +78,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> ML - Feature Selection - Chi2 / F-Value / RFE </a><br>
 <a id="inicio"> 24/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-decision-trees"> ML - Decision Trees </a><br>
-<a id="inicio"> 23/04/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-naive-bayes"> ML - Naive Bayes </a><br>
 </div>
 
 <div align="center">
