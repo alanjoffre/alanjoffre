@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 30/04/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Dashboard Resultados </a><br>
 <a id="inicio"> 29/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-funcionarios"> Power BI - Análise Funcionários </a><br>
 <a id="inicio"> 28/04/2023 - </a> 
