@@ -5,11 +5,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alanjoffre&bg_color=0d1117&color=ffcc00&line=ffcc00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alanjoffre&theme=great-gatsby&row=2&no-bg=true&column=3&margin-w=15&margin-h=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alanjoffre&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=12"/>
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanjoffre&show_icons=true&count_private=true&hide_border=true&title_color=9400d3&icon_color=9400d3&text_color=9400d3&bg_color=0d1117" alt="Alan Joffre github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanjoffre&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&text_color=ffcc00&bg_color=0d1117" alt="Alan Joffre github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanjoffre&layout=compact&hide_border=true&title_color=9400d3&text_color=9400d3&bg_color=0d1117" />
 </div>
 
