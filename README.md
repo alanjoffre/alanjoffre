@@ -56,7 +56,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes"> Kubernetes </a> |
 <a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> |
 <a id="inicio" href="https://github.com/alanjoffre/node"> Node </a> |
-<a id="inicio" href="https://github.com/alanjoffre/powerbi"> Powerbi </a> |
+<a id="inicio" href="https://github.com/alanjoffre/powerbi"> PowerBi </a> |
 <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> |
 <a id="inicio" href="https://github.com/alanjoffre/react"> React </a> |
 <a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a> |
@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 04/05/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Dashboard Resultados </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analise Satisfação </a><br>
 <a id="inicio"> 03/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Dashboard Resultados </a><br>
 <a id="inicio"> 02/05/2023 - </a> 
