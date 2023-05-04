@@ -20,7 +20,7 @@
 <a href = "https://wa.me/+5511976368162"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div><br>
 
-<div align="left">
+<div align="left" color=ffcc00>
 <a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://github.com/alanjoffre/my-profile"> My profile </a><br> <a id="inicio"> Main Skills: </a><a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/django"> Django </a> | <a id="inicio" href="https://github.com/alanjoffre/flask"> Flask </a> | <a id="inicio" href="https://github.com/alanjoffre/fastapi"> FastAPI </a> | <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data Science </a><br> <a id="inicio"> Portfolio Data Science: </a> <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/used-phones-&-tablets-pricing-dataset"> Used Phones pricing </a> |
 <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/black-friday"> Black Friday </a> |
 <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/google-play"> Google Play </a> |
