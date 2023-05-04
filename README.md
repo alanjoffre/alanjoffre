@@ -66,20 +66,20 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 30/04/2023 - </a>
+<a id="inicio"> 04/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Dashboard Resultados </a><br>
-<a id="inicio"> 29/04/2023 - </a> 
+<a id="inicio"> 03/05/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Dashboard Resultados </a><br>
+<a id="inicio"> 02/05/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-funcionarios"> Power BI - Análise Funcionários </a><br>
-<a id="inicio"> 28/04/2023 - </a> 
+<a id="inicio"> 01/05/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Análise Estoque </a><br>
-<a id="inicio"> 27/04/2023 - </a> 
+<a id="inicio"> 30/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/api"> API </a><br>
-<a id="inicio"> 26/04/2023 - </a> 
+<a id="inicio"> 29/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/instagram-reach-analysis-and-prediction"> Instagram Reach Analysis and Prediction  </a><br>
-<a id="inicio"> 25/04/2023 - </a>
+<a id="inicio"> 28/04/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-feature-selection"> ML - Feature Selection - Chi2 / F-Value / RFE </a><br>
-<a id="inicio"> 24/04/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-decision-trees"> ML - Decision Trees </a><br>
 </div>
 
 <div align="center">
