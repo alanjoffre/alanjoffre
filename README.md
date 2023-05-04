@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanjoffre&show_icons=true&count_private=true&hide_border=true&title_color=ffcc00&icon_color=ffcc00&text_color=ffcc00&bg_color=0d1117" alt="Alan Joffre github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanjoffre&layout=compact&hide_border=true&title_color=9400d3&text_color=9400d3&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanjoffre&layout=compact&hide_border=true&title_color=ffcc00&text_color=ffcc00&bg_color=0d1117" />
 </div>
 
 <div align="center">
