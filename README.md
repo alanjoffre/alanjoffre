@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanjoffre&show_icons=true&count_private=true&hide_border=false&title_color=ffcc00&icon_color=ffcc00&text_color=ffcc00&bg_color=ffcc00" alt="Alan Joffre github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanjoffre&layout=compact&hide_border=false&title_color=ffcc00&text_color=ffcc00&bg_color=ffcc00" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanjoffre&show_icons=true&count_private=true&hide_border=false&title_color=ffcc00&icon_color=ffcc00&text_color=ffcc00&bg_color=0d1117" alt="Alan Joffre github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanjoffre&layout=compact&hide_border=false&title_color=ffcc00&text_color=ffcc00&bg_color=0d1117" />
 </div>
 
 <div align="center">
