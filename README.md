@@ -21,7 +21,7 @@
 </div><br>
 
 <div align="left">
-<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://github.com/alanjoffre/my-profile"> My profile </a><br> <a id="inicio"> Main Skills: </a><a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/django"> Django </a> | <a id="inicio" href="https://github.com/alanjoffre/django-rest"> Django-Rest </a> | <a id="inicio" href="https://github.com/alanjoffre/flask"> Flask </a> | <a id="inicio" href="https://github.com/alanjoffre/fastapi"> FastAPI </a> | <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data Science </a><br> <a id="inicio"> Portfolio Data Science: </a> <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/used-phones-&-tablets-pricing-dataset"> Used Phones pricing </a> |
+<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://github.com/alanjoffre/my-profile"> My profile </a><br> <a id="inicio"> Main Skills: </a><a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/django"> Django </a> | <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a> | <a id="inicio" href="https://github.com/alanjoffre/flask"> Flask </a> | <a id="inicio" href="https://github.com/alanjoffre/fastapi"> FastAPI </a> | <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data Science </a><br> <a id="inicio"> Portfolio Data Science: </a> <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/used-phones-&-tablets-pricing-dataset"> Used Phones pricing </a> |
 <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/black-friday"> Black Friday </a> |
 <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/google-play"> Google Play </a> |
 <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/wine-quality"> Wine Quality </a> |
@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 05/05/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/django-rest"> Django-Rest </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
 <a id="inicio"> 04/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analyze Satisfaction </a><br>
 <a id="inicio"> 03/05/2023 - </a>
