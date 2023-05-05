@@ -67,13 +67,13 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 04/05/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analise Satisfação </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analyze Satisfaction </a><br>
 <a id="inicio"> 03/05/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Dashboard Resultados </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Results Dashboard </a><br>
 <a id="inicio"> 02/05/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-funcionarios"> Power BI - Análise Funcionários </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-funcionarios"> Power BI - Employee Analytics </a><br>
 <a id="inicio"> 01/05/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Análise Estoque </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Inventory Analysis </a><br>
 <a id="inicio"> 30/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/api"> API </a><br>
 <a id="inicio"> 29/04/2023 - </a> 
