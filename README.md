@@ -66,19 +66,19 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 05/05/2023 - </a>
+<a id="inicio"> 10/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
-<a id="inicio"> 04/05/2023 - </a>
+<a id="inicio"> 09/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analyze Satisfaction </a><br>
-<a id="inicio"> 03/05/2023 - </a>
+<a id="inicio"> 08/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Results Dashboard </a><br>
-<a id="inicio"> 02/05/2023 - </a> 
+<a id="inicio"> 07/05/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-funcionarios"> Power BI - Employee Analytics </a><br>
-<a id="inicio"> 01/05/2023 - </a> 
+<a id="inicio"> 06/05/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Inventory Analysis </a><br>
-<a id="inicio"> 30/04/2023 - </a> 
+<a id="inicio"> 05/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/api"> API </a><br>
-<a id="inicio"> 29/04/2023 - </a> 
+<a id="inicio"> 04/04/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/instagram-reach-analysis-and-prediction"> Instagram Reach Analysis and Prediction  </a><br>
 </div>
 
