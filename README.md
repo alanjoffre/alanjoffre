@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 22/04/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/kafka"> Kafka  </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/kafka"> Kafka </a><br>
 <a id="inicio"> 21/05/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
 <a id="inicio"> 20/05/2023 - </a>
