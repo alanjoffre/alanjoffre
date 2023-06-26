@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 26/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/funcao-gridsearchcv"></a> GridSearchCV - Acelerar processamento de um algoritmo <br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/funcao-gridsearchcv"> GridSearchCV - Acelerar processamento de um algoritmo </a><br>
 <a id="inicio"> 25/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a><br>
 <a id="inicio"> 24/06/2023 - </a>
