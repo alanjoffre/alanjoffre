@@ -66,20 +66,20 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 07/06/2023 - </a> 
+<a id="inicio"> 26/06/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/funcao-gridsearchcv"></a> GridSearchCV - Acelerar processamento de um algoritmo <br>
+<a id="inicio"> 25/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a><br>
-<a id="inicio"> 06/06/2023 - </a>
+<a id="inicio"> 24/06/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
-<a id="inicio"> 05/06/2023 - </a>
+<a id="inicio"> 23/06/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analyze Satisfaction </a><br>
-<a id="inicio"> 04/06/2023 - </a>
+<a id="inicio"> 22/06/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Results Dashboard </a><br>
-<a id="inicio"> 03/06/2023 - </a> 
+<a id="inicio"> 21/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-colaboradores"> Power BI - Employee Analytics</a><br>
-<a id="inicio"> 02/06/2023 - </a> 
+<a id="inicio"> 20/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Inventory Analysis </a><br>
-<a id="inicio"> 01/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/api"> API </a><br>
 </div>
 
 <div align="center">
