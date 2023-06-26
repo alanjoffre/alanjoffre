@@ -67,11 +67,11 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 28/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/algoritmo-gradient-boosting"> Gradient Boosting</a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> Gradient Boosting</a><br>
 <a id="inicio"> 27/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/exercicio-pratico-final"> Machine Learning - Exercicio Final + Certificação </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/exercicio-pratico-final"> Machine Learning - Exercicio Final + Certificação </a><br>
 <a id="inicio"> 26/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/funcao-gridsearchcv"> GridSearchCV - Melhor performance </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/funcao-gridsearchcv"> GridSearchCV - Melhor performance </a><br>
 <a id="inicio"> 25/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a><br>
 <a id="inicio"> 24/06/2023 - </a>
