@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 27/06/2023 - </a> 
+<a id="inicio" href=""> Machine Learning - Exercicio Final + Certificação </a><br>
 <a id="inicio"> 26/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/algoritmos/funcao-gridsearchcv"> GridSearchCV - Melhor performance </a><br>
 <a id="inicio"> 25/06/2023 - </a> 
@@ -78,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Results Dashboard </a><br>
 <a id="inicio"> 21/06/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-colaboradores"> Power BI - Employee Analytics</a><br>
-<a id="inicio"> 20/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-estoque"> Power BI - Inventory Analysis </a><br>
 </div>
 
 <div align="center">
