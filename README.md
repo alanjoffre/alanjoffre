@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 12/07/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/principal-component-analysis-pca"> Principal Component Analysis - PCA </a><br>
 <a id="inicio"> 11/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Clustering K Means </a><br>
 <a id="inicio"> 10/07/2023 - </a>
@@ -78,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/funcao-gridsearchcv"> GridSearchCV - Melhor performance </a><br>
 <a id="inicio"> 06/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a><br>
-<a id="inicio"> 05/07/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
 </div>
 
 <div align="center">
