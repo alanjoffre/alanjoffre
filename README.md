@@ -80,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a><br>
 <a id="inicio"> 05/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
-<a id="inicio"> 04/07/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analyze Satisfaction </a><br>
 </div>
 
 <div align="center">
