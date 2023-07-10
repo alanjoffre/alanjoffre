@@ -66,20 +66,20 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 28/06/2023 - </a> 
+<a id="inicio"> 10/07/2023 - </a>
+<a id="inicio" href=""> Substituindo dados missing com um modelo de regressão </a><br>
+<a id="inicio"> 09/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> Gradient Boosting</a><br>
-<a id="inicio"> 27/06/2023 - </a> 
+<a id="inicio"> 08/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/exercicio-pratico-final"> Machine Learning - Exercicio Final + Certificação </a><br>
-<a id="inicio"> 26/06/2023 - </a> 
+<a id="inicio"> 07/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/funcao-gridsearchcv"> GridSearchCV - Melhor performance </a><br>
-<a id="inicio"> 25/06/2023 - </a> 
+<a id="inicio"> 06/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a><br>
-<a id="inicio"> 24/06/2023 - </a>
+<a id="inicio"> 05/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a><br>
-<a id="inicio"> 23/06/2023 - </a>
+<a id="inicio"> 04/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/analise-satisfacao"> Power BI - Analyze Satisfaction </a><br>
-<a id="inicio"> 22/06/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/powerbi/tree/master/curso-completo/dashboard-resultados"> Power BI - Results Dashboard </a><br>
 </div>
 
 <div align="center">
