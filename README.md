@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 13/07/2023 - </a> 
-<a id="inicio" href=""> Random Forest </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/random-forest"> Random Forest </a><br>
 <a id="inicio"> 12/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/principal-component-analysis-pca"> Principal Component Analysis - PCA </a><br>
 <a id="inicio"> 11/07/2023 - </a>
