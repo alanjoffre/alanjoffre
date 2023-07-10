@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 11/07/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Clustering K Means </a><br>
 <a id="inicio"> 10/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/dados-missing-regressao"> Substituindo dados missing com um modelo de regressão </a><br>
 <a id="inicio"> 09/07/2023 - </a> 
