@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 14/07/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/extra-trees"> Extra Trees </a><br>
 <a id="inicio"> 13/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/random-forest"> Random Forest </a><br>
 <a id="inicio"> 12/07/2023 - </a>
@@ -78,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> Gradient Boosting</a><br>
 <a id="inicio"> 08/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/exercicio-pratico-final"> Machine Learning - Exercicio Final + Certificação </a><br>
-<a id="inicio"> 07/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/funcao-gridsearchcv"> GridSearchCV - Melhor performance </a><br>
 </div>
 
 <div align="center">
