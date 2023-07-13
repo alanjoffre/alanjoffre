@@ -79,7 +79,7 @@
 <a id="inicio"> 10/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/dados-missing-regressao"> Substituindo dados missing com um modelo de regressão </a><br>
 <a id="inicio"> 09/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> MAchine Learning - Gradient Boosting</a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> Machine Learning - Gradient Boosting</a><br>
 </div>
 
 <div align="center">
