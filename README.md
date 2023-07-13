@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 15/07/2023 - </a> 
-<a id="inicio" href=""> Machine Learning - Ada Boost </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/ada-boost"> Machine Learning - Ada Boost </a><br>
 <a id="inicio"> 14/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/extra-trees"> Machine Learning - Extra Trees </a><br>
 <a id="inicio"> 13/07/2023 - </a> 
