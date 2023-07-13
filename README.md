@@ -66,20 +66,20 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 15/07/2023 - </a> 
+<a id="inicio" href=""> Machine Learning - Ada Boost </a><br>
 <a id="inicio"> 14/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/extra-trees"> Extra Trees </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/extra-trees"> Machine Learning - Extra Trees </a><br>
 <a id="inicio"> 13/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/random-forest"> Random Forest </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/random-forest"> Machine Learning - Random Forest </a><br>
 <a id="inicio"> 12/07/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/principal-component-analysis-pca"> Principal Component Analysis - PCA </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/principal-component-analysis-pca"> Machine Learning - Principal Component Analysis - PCA </a><br>
 <a id="inicio"> 11/07/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Clustering K Means </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Machine LEarning - Clustering K Means </a><br>
 <a id="inicio"> 10/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/dados-missing-regressao"> Substituindo dados missing com um modelo de regressão </a><br>
 <a id="inicio"> 09/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> Gradient Boosting</a><br>
-<a id="inicio"> 08/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/exercicio-pratico-final"> Machine Learning - Exercicio Final + Certificação </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> MAchine Learning - Gradient Boosting</a><br>
 </div>
 
 <div align="center">
