@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 16/07/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/gradient-boosting"> Machine Learning - Gradient Boosting</a><br>
 <a id="inicio"> 15/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/ada-boost"> Machine Learning - Ada Boost </a><br>
 <a id="inicio"> 14/07/2023 - </a> 
@@ -78,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Machine Learning - Clustering K Means </a><br>
 <a id="inicio"> 10/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/dados-missing-regressao"> ML - Substituindo dados missing com um modelo de regressão </a><br>
-<a id="inicio"> 09/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/algoritmo-gradient-boosting"> Machine Learning - Gradient Boosting</a><br>
 </div>
 
 <div align="center">
