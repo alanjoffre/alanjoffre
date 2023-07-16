@@ -80,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/principal-component-analysis-pca"> Machine Learning - Principal Component Analysis - PCA </a><br>
 <a id="inicio"> 11/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Machine Learning - Clustering K Means </a><br>
-<a id="inicio"> 10/07/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/primeiro-modulo/algoritmos/dados-missing-regressao"> ML - Substituindo dados missing com um modelo de regressão </a><br>
 </div>
 
 <div align="center">
