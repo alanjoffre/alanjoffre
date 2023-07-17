@@ -66,6 +66,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 18/07/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/support-vector-machine"> Machine Learning - Support Vector Machine - SVM </a><br>
 <a id="inicio"> 17/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/bagging"> Machine Learning - Bagging </a><br>
 <a id="inicio"> 16/07/2023 - </a> 
@@ -78,8 +80,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/random-forest"> Machine Learning - Random Forest </a><br>
 <a id="inicio"> 12/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/principal-component-analysis-pca"> Machine Learning - Principal Component Analysis - PCA </a><br>
-<a id="inicio"> 11/07/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/aprendizado-nao-supervisionado/clustering-k-means"> Machine Learning - Clustering K Means </a><br>
 </div>
 
 <div align="center">
