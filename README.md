@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 20/07/2023 - </a> 
-<a id="inicio" href=""> Machine Learning - Módulo 2 - Exercicio final + Certificação </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/exercicio-final-certificacao"> Machine Learning - Módulo 2 - Exercicio final + Certificação </a><br>
 <a id="inicio"> 19/07/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/sistemas-de-recomendacao"> Machine Learning - Sistemas de Recomendação </a><br>
 <a id="inicio"> 18/07/2023 - </a>
