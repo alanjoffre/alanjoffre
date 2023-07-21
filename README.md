@@ -67,7 +67,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 21/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning"> Deep Learning </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/preparando-um-dataset-para-rede-neural-keras"> Deep Learning - Preparando um dataset para a rede neural (KERAS) </a><br>
 <a id="inicio"> 20/07/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/classification-of-gestures-by-reading-muscle-activity"> Machine Learning - Classification of gestures by reading muscle activity </a><br>
 <a id="inicio"> 19/07/2023 - </a>
