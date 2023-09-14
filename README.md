@@ -50,6 +50,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
 <a id="inicio" href="https://github.com/alanjoffre/gulp"> Gulp </a> |
 <a id="inicio" href="https://github.com/alanjoffre/html"> Html </a> |
+<a id="inicio" href="https://github.com/alanjoffre/java"> Java </a> |
 <a id="inicio" href="https://github.com/alanjoffre/javascript"> JavaScript </a> |
 <a id="inicio" href="https://github.com/alanjoffre/jquery"> Jquery </a> |
 <a id="inicio" href="https://github.com/alanjoffre/json"> Json </a> |
@@ -66,20 +67,20 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 21/07/2023 - </a> 
+<a id="inicio"> 14/09/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/java"> Curso - Java </a><br>
+<a id="inicio"> 13/09/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/preparando-um-dataset-para-rede-neural-keras"> Deep Learning - Preparando um dataset para a rede neural (KERAS) </a><br>
-<a id="inicio"> 20/07/2023 - </a> 
+<a id="inicio"> 12/09/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/classification-of-gestures-by-reading-muscle-activity"> Machine Learning - Classification of gestures by reading muscle activity </a><br>
-<a id="inicio"> 19/07/2023 - </a>
+<a id="inicio"> 11/09/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/sistemas-de-recomendacao"> Machine Learning - Sistemas de Recomendação </a><br>
-<a id="inicio"> 18/07/2023 - </a>
+<a id="inicio"> 10/09/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/support-vector-machine"> Machine Learning - Support Vector Machine - SVM </a><br>
-<a id="inicio"> 17/07/2023 - </a>
+<a id="inicio"> 09/09/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/bagging"> Machine Learning - Bagging </a><br>
-<a id="inicio"> 16/07/2023 - </a> 
+<a id="inicio"> 08/09/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/gradient-boosting"> Machine Learning - Gradient Boosting</a><br>
-<a id="inicio"> 15/07/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/ada-boost"> Machine Learning - Ada Boost </a><br>
 </div>
 
 <div align="center">
