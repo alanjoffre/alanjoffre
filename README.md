@@ -67,6 +67,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 15/09/2023 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/curso-java/dev"> Java - Tipos primitivos</a><br>
 <a id="inicio"> 14/09/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/java"> Curso - Java </a><br>
 <a id="inicio"> 13/09/2023 - </a> 
@@ -79,8 +81,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/support-vector-machine"> Machine Learning - Support Vector Machine - SVM </a><br>
 <a id="inicio"> 09/09/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/bagging"> Machine Learning - Bagging </a><br>
-<a id="inicio"> 08/09/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/gradient-boosting"> Machine Learning - Gradient Boosting</a><br>
 </div>
 
 <div align="center">
