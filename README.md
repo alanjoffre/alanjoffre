@@ -61,6 +61,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> |
 <a id="inicio" href="https://github.com/alanjoffre/react"> React </a> |
 <a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a> |
+<a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |
 <a id="inicio" href="https://github.com/alanjoffre/vue"> Vue </a> |
 <a id="inicio" href="https://github.com/alanjoffre/webpack"> Webpack </a> |
 <a id="inicio" href="https://github.com/alanjoffre/wsl2"> Wsl2 </a><br>
