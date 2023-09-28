@@ -69,7 +69,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 29/09/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/criando-treinando-rede-neural-keras"> Criando e treinando a rede neural (Keras 100% atualizado) </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/criando-treinando-rede-neural-keras"> Criando e treinando a rede neural (Keras - código 100% atualizado) </a><br>
 <a id="inicio"> 28/09/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Operadores </a><br>
 <a id="inicio"> 27/09/2023 - </a> 
