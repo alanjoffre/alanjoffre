@@ -69,11 +69,11 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 28/09/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/curso-java/dev"> Java - Operadores </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Operadores </a><br>
 <a id="inicio"> 27/09/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/curso-java/dev"> Java - Tipos primitivos</a><br>
+<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Tipos primitivos</a><br>
 <a id="inicio"> 26/09/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/java"> Curso - Java </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-full"> Curso - Java </a><br>
 <a id="inicio"> 25/09/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/preparando-um-dataset-para-rede-neural-keras"> Deep Learning - Preparando um dataset para a rede neural (KERAS) </a><br>
 <a id="inicio"> 24/09/2023 - </a> 
