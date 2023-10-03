@@ -68,6 +68,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 03/10/2023 - </a>
+<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Operadores </a><br>
 <a id="inicio"> 29/09/2023 - </a>
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/criando-treinando-rede-neural-keras"> Criando e treinando a rede neural (Keras - código 100% atualizado) </a><br>
 <a id="inicio"> 28/09/2023 - </a>
@@ -80,10 +82,6 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/preparando-um-dataset-para-rede-neural-keras"> Deep Learning - Preparando um dataset para a rede neural (KERAS) </a><br>
 <a id="inicio"> 24/09/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/classification-of-gestures-by-reading-muscle-activity"> Machine Learning - Classification of gestures by reading muscle activity </a><br>
-<a id="inicio"> 23/09/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/sistemas-de-recomendacao"> Machine Learning - Sistemas de Recomendação </a><br>
-<a id="inicio"> 22/09/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/machine-learning/segundo-modulo/support-vector-machine"> Machine Learning - Support Vector Machine - SVM </a><br>
 </div>
 
 <div align="center">
