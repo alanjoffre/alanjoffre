@@ -69,7 +69,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 05/10/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/keras-classificacao-digitos"> Classificação Digitos - Keras </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/keras-classificacao-digitos"> Deep Learning - Classificação Digitos - Keras </a><br>
 <a id="inicio"> 04/10/2023 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/realizando-previsoes-com-rede-neural-keras"> Deep Learning - Previsões com a rede neural - Keras </a><br>
 <a id="inicio"> 03/10/2023 - </a> 
