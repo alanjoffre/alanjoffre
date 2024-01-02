@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+Joffre;I'm+from+Brazil;Dev.+Java;Data+Scientist;Dev.+Python;Flask+|+Django+|+FastAPI;Machine+Learning+|+Deep+Learning;Artificial+Intelligence;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+Joffre;Data+Analyst;Data+Scientist;Dev.+Python;Flask+|+Django+|+FastAPI;Machine+Learning+|+Deep+Learning;Artificial+Intelligence;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alanjoffre&bg_color=0d1117&color=ffcc00&line=ffcc00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -46,6 +46,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/docker"> Docker </a> |
 <a id="inicio" href="https://github.com/alanjoffre/dom"> Dom </a> |
 <a id="inicio" href="https://github.com/alanjoffre/esnext"> Esnex </a> |
+<a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
 <a id="inicio" href="https://github.com/alanjoffre/express"> Express </a> |
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
 <a id="inicio" href="https://github.com/alanjoffre/gulp"> Gulp </a> |
