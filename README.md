@@ -69,20 +69,10 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 05/10/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/keras-classificacao-digitos"> Deep Learning - Classificação Digitos - Keras </a><br>
-<a id="inicio"> 04/10/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/realizando-previsoes-com-rede-neural-keras"> Deep Learning - Previsões com a rede neural - Keras </a><br>
-<a id="inicio"> 03/10/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Operadores </a><br> 
-<a id="inicio"> 29/09/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning/modulo-III/criando-treinando-rede-neural-keras"> Criando e treinando a rede neural (Keras - código 100% atualizado) </a><br>
-<a id="inicio"> 28/09/2023 - </a>
-<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Operadores </a><br>
-<a id="inicio"> 27/09/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-2023/dev"> Java - Tipos primitivos</a><br>
-<a id="inicio"> 26/09/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/java/tree/master/cursos/curso-java-full"> Curso - Java </a><br>
+<a id="inicio"> 03/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/deep-learning"> Deep Learning - Função de ativação ReLu </a><br>
+<a id="inicio"> 02/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a><br>
 </div>
 
 <div align="center">
