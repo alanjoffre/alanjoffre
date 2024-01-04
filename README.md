@@ -70,7 +70,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> 04/01/2024 - Business Intelligence </a><br>
+<a id="inicio"> 04/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a><br>
 </div>
 
 <div align="center">
