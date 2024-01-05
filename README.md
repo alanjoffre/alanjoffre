@@ -40,6 +40,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/bootstrap"> Bootstrap </a> |
 <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> |
 <a id="inicio" href="https://github.com/alanjoffre/c"> C </a> |
+<a id="inicio" href="https://github.com/alanjoffre/chatgpt"> ChatGPT </a> |
 <a id="inicio" href="https://github.com/alanjoffre/cloud-computing"> Cloud Computing </a> |
 <a id="inicio" href="https://github.com/alanjoffre/css"> CSS </a> |
 <a id="inicio" href="https://github.com/alanjoffre/data-engineering"> Data Engineering </a> |
@@ -70,7 +71,7 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 04/01/2024 - </a> 
+<a id="inicio"> 05/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a><br>
 </div>
 
