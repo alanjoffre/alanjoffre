@@ -58,6 +58,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/jquery"> Jquery </a> |
 <a id="inicio" href="https://github.com/alanjoffre/json"> Json </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes"> Kubernetes </a> |
+<a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain </a> |
 <a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> |
 <a id="inicio" href="https://github.com/alanjoffre/node"> Node </a> |
 <a id="inicio" href="https://github.com/alanjoffre/powerbi"> PowerBi </a> |
@@ -71,6 +72,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 08/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain - Bots IA </a><br>
 <a id="inicio"> 05/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a><br>
 </div>
