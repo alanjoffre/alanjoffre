@@ -20,26 +20,17 @@
 </div><br>
 
 <div align="left">
-<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://alanjoffre.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a> <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | 
+<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://alanjoffre.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a> <a id="inicio" href="https://github.com/alanjoffre/agile-methodologies"> Agile Methodologies </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> | <a id="inicio" href="https://github.com/alanjoffre/elasticsearch"> Elasticsearch </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> | <a id="inicio" href="https://github.com/alanjoffre/pentahopdi"> Pentahopdi </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | <a id="inicio" href=""> Pyspark </a> | <a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> | <a id="inicio" href=""> Scala </a> | <a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |
  </div>
 
 ### Knowledge:
-<a id="inicio" href="https://github.com/alanjoffre/agile-methodologies"> Agile Methodologies </a> |
-<a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> |
-<a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> |
 <a id="inicio" href="https://github.com/alanjoffre/chatgpt"> ChatGPT </a> |
 <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data-Science </a> |
-<a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> |
 <a id="inicio" href="https://github.com/alanjoffre/docker"> Docker </a> |
-<a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes"> Kubernetes </a> |
 <a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain </a> |
-<a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> |
-<a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> |
-<a id="inicio" href="https://github.com/alanjoffre/powerbi"> PowerBi </a> |
-<a id="inicio" href="https://github.com/alanjoffre/r"> R </a> |
-<a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |<br>
+<a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> | <br>
 
 ### New posts:
 <div align="left">
