@@ -20,54 +20,27 @@
 </div><br>
 
 <div align="left">
-<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://alanjoffre.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a><a id="inicio" href=""> TESTE1 </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
+<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://alanjoffre.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a> <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
  </div>
 
 ### Knowledge:
 <a id="inicio" href="https://github.com/alanjoffre/agile-methodologies"> Agile Methodologies </a> |
-<a id="inicio" href="https://github.com/alanjoffre/ajax"> Ajax </a> |
 <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> |
-<a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a> |
-<a id="inicio" href="https://github.com/alanjoffre/api"> API </a> |
-<a id="inicio" href="https://github.com/alanjoffre/artificial-intelligence"> Artificial Intelligence </a> |
-<a id="inicio" href="https://github.com/alanjoffre/bootstrap"> Bootstrap </a> |
 <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> |
 <a id="inicio" href="https://github.com/alanjoffre/c"> C </a> |
 <a id="inicio" href="https://github.com/alanjoffre/chatgpt"> ChatGPT </a> |
-<a id="inicio" href="https://github.com/alanjoffre/cloud-computing"> Cloud Computing </a> |
-<a id="inicio" href="https://github.com/alanjoffre/css"> CSS </a> |
-<a id="inicio" href="https://github.com/alanjoffre/data-engineering"> Data Engineering </a> |
 <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data-Science </a> |
-<a id="inicio" href="https://github.com/alanjoffre/database"> Database </a> |
-<a id="inicio" href="https://github.com/alanjoffre/django"> Django </a> |
-<a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a> |
+<a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> |
 <a id="inicio" href="https://github.com/alanjoffre/docker"> Docker </a> |
-<a id="inicio" href="https://github.com/alanjoffre/dom"> Dom </a> |
-<a id="inicio" href="https://github.com/alanjoffre/esnext"> Esnex </a> |
 <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
-<a id="inicio" href="https://github.com/alanjoffre/express"> Express </a> |
-<a id="inicio" href="https://github.com/alanjoffre/fastapi"> FastAPI </a> |
-<a id="inicio" href="https://github.com/alanjoffre/flask"> Flask </a> |
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
-<a id="inicio" href="https://github.com/alanjoffre/gulp"> Gulp </a> |
-<a id="inicio" href="https://github.com/alanjoffre/html"> Html </a> |
-<a id="inicio" href="https://github.com/alanjoffre/java"> Java </a> |
-<a id="inicio" href="https://github.com/alanjoffre/javascript"> JavaScript </a> |
-<a id="inicio" href="https://github.com/alanjoffre/jquery"> Jquery </a> |
-<a id="inicio" href="https://github.com/alanjoffre/json"> Json </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes"> Kubernetes </a> |
 <a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain </a> |
 <a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> |
-<a id="inicio" href="https://github.com/alanjoffre/node"> Node </a> |
 <a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> |
 <a id="inicio" href="https://github.com/alanjoffre/powerbi"> PowerBi </a> |
 <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> |
-<a id="inicio" href="https://github.com/alanjoffre/react"> React </a> |
-<a id="inicio" href="https://github.com/alanjoffre/regex"> Regex </a> |
-<a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |
-<a id="inicio" href="https://github.com/alanjoffre/vue"> Vue </a> |
-<a id="inicio" href="https://github.com/alanjoffre/webpack"> Webpack </a> |
-<a id="inicio" href="https://github.com/alanjoffre/wsl2"> Wsl2 </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |<br>
 
 ### New posts:
 <div align="left">
