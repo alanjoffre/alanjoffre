@@ -34,6 +34,7 @@
 ### Knowledge:
 <a id="inicio" href="https://github.com/alanjoffre/agile-methodologies"> Agile Methodologies </a> |
 <a id="inicio" href="https://github.com/alanjoffre/ajax"> Ajax </a> |
+<a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kafka"> Apache Kafka </a> |
 <a id="inicio" href="https://github.com/alanjoffre/api"> API </a> |
 <a id="inicio" href="https://github.com/alanjoffre/artificial-intelligence"> Artificial Intelligence </a> |
@@ -72,6 +73,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 12/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a><br>
 <a id="inicio"> 11/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/business-intelligence">  </a><br>
 <a id="inicio"> 10/01/2024 - </a> 
