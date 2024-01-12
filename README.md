@@ -21,14 +21,7 @@
 </div><br>
 
 <div align="left">
-<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://github.com/alanjoffre/my-profile"> My profile </a><br> <a id="inicio"> Main Skills: </a><a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/django"> Django </a> | <a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a> | <a id="inicio" href="https://github.com/alanjoffre/flask"> Flask </a> | <a id="inicio" href="https://github.com/alanjoffre/fastapi"> FastAPI </a> | <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data Science </a><br> <a id="inicio"> Portfolio Data Science: </a> <a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/used-phones-&-tablets-pricing-dataset"> Used Phones pricing </a> |
-<a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/black-friday"> Black Friday </a> |
-<a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/google-play"> Google Play </a> |
-<a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/wine-quality"> Wine Quality </a> |
-<a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/furniture-sale"> Furniture Sale </a> |
-<a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/ciencia-de-dados/exchange-rate-forecast"> Exchange Rate Forecast </a><br>
-<a id="inicio"> Portfolio Flask: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/flask/to-do-list"> To-Do-List </a><br>
-<a id="inicio"> Portfolio Django: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio/tree/master/django/inventory-management-system"> Inventory Management System </a>
+<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://github.com/alanjoffre/my-profile"> My profile </a><br> <a id="inicio"> Main Skills: </a><a id="inicio" href=""> TESTE1 </a> | <a id="inicio" href=""> TESTE2 </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
  </div>
 
 ### Knowledge:
@@ -45,12 +38,17 @@
 <a id="inicio" href="https://github.com/alanjoffre/cloud-computing"> Cloud Computing </a> |
 <a id="inicio" href="https://github.com/alanjoffre/css"> CSS </a> |
 <a id="inicio" href="https://github.com/alanjoffre/data-engineering"> Data Engineering </a> |
+<a id="inicio" href="https://github.com/alanjoffre/data-science"> Data-Science </a> |
 <a id="inicio" href="https://github.com/alanjoffre/database"> Database </a> |
+<a id="inicio" href="https://github.com/alanjoffre/django"> Django </a> |
+<a id="inicio" href="https://github.com/alanjoffre/django-rest-framework"> Django-Rest-Framework </a> |
 <a id="inicio" href="https://github.com/alanjoffre/docker"> Docker </a> |
 <a id="inicio" href="https://github.com/alanjoffre/dom"> Dom </a> |
 <a id="inicio" href="https://github.com/alanjoffre/esnext"> Esnex </a> |
 <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> |
 <a id="inicio" href="https://github.com/alanjoffre/express"> Express </a> |
+<a id="inicio" href="https://github.com/alanjoffre/fastapi"> FastAPI </a> |
+<a id="inicio" href="https://github.com/alanjoffre/flask"> Flask </a> |
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
 <a id="inicio" href="https://github.com/alanjoffre/gulp"> Gulp </a> |
 <a id="inicio" href="https://github.com/alanjoffre/html"> Html </a> |
@@ -62,6 +60,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain </a> |
 <a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> |
 <a id="inicio" href="https://github.com/alanjoffre/node"> Node </a> |
+<a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> |
 <a id="inicio" href="https://github.com/alanjoffre/powerbi"> PowerBi </a> |
 <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> |
 <a id="inicio" href="https://github.com/alanjoffre/react"> React </a> |
@@ -76,7 +75,7 @@
 <a id="inicio"> 12/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a><br>
 <a id="inicio"> 11/01/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/business-intelligence">  </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a><br>
 <a id="inicio"> 10/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain - Bots IA </a><br>
 </div>
