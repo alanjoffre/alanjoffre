@@ -15,7 +15,6 @@
 
 <div align="center">
 <a href="https://linkedin.com/in/alanjoffre" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "https://twitter.com/alanjoffre01"> <img src="https://img.shields.io/badge/Twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href = "mailto: alanjoffre@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "https://wa.me/+5511976368162"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div><br>
