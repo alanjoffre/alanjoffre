@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 14/01/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/pentaho-pdi"> Pentaho - PDI </a>
+<a id="inicio" href="https://github.com/alanjoffre/pentaho-pdi"> Pentaho - PDI </a><br>
 <a id="inicio"> 13/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/databricks-delta-lake"> Databricks Delta Lake </a><br>
 <a id="inicio"> 12/01/2024 - </a> 
