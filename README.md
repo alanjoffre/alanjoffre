@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcc00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+Joffre;Data+Analyst;Data+Scientist;Agile+Methodologies;Alteryx+TRIFACTA;Apache+Hop;Business+Intelligence;Databricks;Elasticsearch;Excel+VBA;Pentaho+PDI;Power+BI;Pyspark;Python+/+R+/+Scala;Machine+Learning;Artificial+Intelligence;SQL;PostgreSQL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffafa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+Joffre;Data+Analyst;Data+Engineer;Data+Scientist;Agile+Methodologies;Alteryx+TRIFACTA;Apache+Hop;Business+Intelligence;Databricks;Elasticsearch;Excel+VBA;Pentaho+PDI;Power+BI;Pyspark;Python+/+R+/+Scala;Machine+Learning;Artificial+Intelligence;SQL;PostgreSQL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alanjoffre&bg_color=0d1117&color=ffcc00&line=ffcc00&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
