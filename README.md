@@ -34,6 +34,8 @@
 
 ### New posts:
 <div align="left">
+<a id="inicio"> 16/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/apache-hop"> PySpark - Spark </a><br>
 <a id="inicio"> 15/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/alteryx-trifacta"> Alteryx TRIFACTA </a><br>
 <a id="inicio"> 14/01/2024 - </a> 
