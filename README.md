@@ -20,7 +20,7 @@
 </div><br>
 
 <div align="left">
-<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://alanjoffre.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a> <a id="inicio" href="https://github.com/alanjoffre/agile-methodologies"> Agile Methodologies </a> | <a id="inicio" href="https://github.com/alanjoffre/alteryx-trifacta"> Alteryx Trifacta </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-nifi"> Apache Nifi </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-spark"> Apache Spark </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks-delta-lake"> Databricks Delta Lake </a> | <a id="inicio" href="https://github.com/alanjoffre/elasticsearch"> Elasticsearch </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> | <a id="inicio" href="https://github.com/alanjoffre/pentaho-pdi"> Pentaho-PDI </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | <a id="inicio" href=""> Pyspark </a> | <a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> | <a id="inicio" href=""> Scala </a> | <a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |
+<a id="inicio"> My informations: </a><a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio </a> | <a id="inicio" href="https://alanjoffre.github.io/my-profile/"> My profile </a><br> <a id="inicio"> Main Skills: </a> <a id="inicio" href="https://github.com/alanjoffre/agile-methodologies"> Agile Methodologies </a> | <a id="inicio" href="https://github.com/alanjoffre/alteryx-trifacta"> Alteryx Trifacta </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-hop"> Apache Hop </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-nifi"> Apache Nifi </a> | <a id="inicio" href="https://github.com/alanjoffre/apache-spark"> Apache Spark </a> | <a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks"> Databricks </a> | <a id="inicio" href="https://github.com/alanjoffre/databricks-delta-lake"> Databricks Delta Lake </a> | <a id="inicio" href="https://github.com/alanjoffre/dbt"> Dbt </a> | <a id="inicio" href="https://github.com/alanjoffre/elasticsearch"> Elasticsearch </a> | <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> | <a id="inicio" href="https://github.com/alanjoffre/pentaho-pdi"> Pentaho-PDI </a> | <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | <a id="inicio" href=""> Pyspark </a> | <a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> | <a id="inicio" href=""> Scala </a> | <a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |
  </div>
 
 ### Knowledge:
@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 19/01/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/elasticsearch"> Elasticsearch </a><br>
+<a id="inicio"> 20/01/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/dbt"> DBT </a><br>
 </div>
 
 <div align="center">
