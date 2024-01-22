@@ -28,6 +28,7 @@
 <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data-Science </a> |
 <a id="inicio" href="https://github.com/alanjoffre/docker"> Docker </a> |
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
+<a id="inicio" href="https://github.com/alanjoffre/google-data-analytics"> Google Data Analytics </a> |
 <a id="inicio" href="https://github.com/alanjoffre/kubernetes"> Kubernetes </a> |
 <a id="inicio" href="https://github.com/alanjoffre/langchain"> Langchain </a> |
 <a id="inicio" href="https://github.com/alanjoffre/linux"> Linux </a> | <br>
