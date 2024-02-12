@@ -35,8 +35,12 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 22/01/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/business-intelligence"> Business Intelligence </a><br>
+<a id="inicio"> 12/02/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/kanban"> Certificação - Kanban </a><br>
+<a id="inicio"> 13/02/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/scrum"> Certificação - Scrum </a><br>
+<a id="inicio"> 14/02/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/scrumban"> Certificação - Scrumban </a><br>
 </div>
 
 <div align="center">
