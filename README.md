@@ -36,7 +36,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 15/02/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/kanban"> Apache Kafka </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/apache-kafka"> Apache Kafka </a><br>
 </div>
 
 <div align="center">
