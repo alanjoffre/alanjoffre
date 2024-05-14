@@ -36,11 +36,11 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 01/01/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados"> Engenharia de dados - Projeto completo </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados"> Engenharia de dados </a><br>
 <a id="inicio"> 01/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/python"> Python - Curso completo </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/python"> Python </a><br>
 <a id="inicio"> 01/01/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/formacao-cientista-de-dados"> Formação Cientista de dados - completo </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/formacao-cientista-de-dados"> Formação Cientista de dados </a><br>
 
 </div>
 
