@@ -35,13 +35,13 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 01/01/2023 - </a> 
+<a id="inicio"> 01/01/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/java/tree/master/curso-completo"> Java - Completo + Projetos reais. </a><br>
-<a id="inicio"> 01/03/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/python"> Python - Completo + Projetos reais. </a><br>
-<a id="inicio"> 15/06/2023 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados"> Engenharia de dados - Completo + Projeto real. </a><br>
 <a id="inicio"> 01/02/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/python"> Python - Completo + Projetos reais. </a><br>
+<a id="inicio"> 15/03/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados"> Engenharia de dados - Completo + Projeto real. </a><br>
+<a id="inicio"> 20/05/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/ciencia-de-dados-completo-real-2024"> Ciência de Dados - Completo + Projeto real. </a><br>
 
 </div>
