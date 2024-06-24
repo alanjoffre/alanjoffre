@@ -37,6 +37,8 @@
 <div align="left">
 <a id="inicio"> 24/06/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/ciencia-de-dados-completo-real-2024"> Ciência de Dados - Projeto real 2024. </a><br>
+<a id="inicio"> 24/06/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/streamlit-12-aplicacoes-inteligencia-artificial/3.Franquia"> Ciência de Dados - Projeto real - Prevendo custos para abrir Franquia - Regressão. </a><br>
 
 </div>
 
