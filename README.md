@@ -40,8 +40,9 @@
 <a id="inicio"> 25/06/2024 - </a> 
 <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/streamlit-12-aplicacoes-inteligencia-artificial/3.Franquia"> Ciência de Dados - Prevendo custos para abrir Franquia - Regressão. </a><br>
 <a id="inicio"> 26/06/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/streamlit-12-aplicacoes-inteligencia-artificial/4.QualidadeVeiculos"> Ciência de Dados - Prevendo a qualidade de veiculos - Classificação.. </a><br>
-
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/streamlit-12-aplicacoes-inteligencia-artificial/4.QualidadeVeiculos"> Ciência de Dados - Prevendo a qualidade de veiculos - Classificação. </a><br>
+<a id="inicio"> 27/06/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/streamlit-12-aplicacoes-inteligencia-artificial/5.Proleite"> Ciência de Dados - Prevendo a producação de leite - Séries Temporais / Previsão / Decomposição. </a><br>
 </div>
 
 <div align="center">
