@@ -35,8 +35,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 01/06/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/streamlit-12-aplicacoes-inteligencia-artificial/5.Proleite"> Ciência de Dados - Prevendo a producação de leite - Séries Temporais / Previsão / Decomposição. </a><br>
+<a id="inicio"> 23/07/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfólio - Alan Joffre. </a><br>
 </div>
 
 <div align="center">
