@@ -36,7 +36,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 23/07/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfólio - Alan Joffre. </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/portfolio"> Portfolio - Alan Joffre. </a><br>
 </div>
 
 <div align="center">
