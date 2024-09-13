@@ -25,7 +25,6 @@
 
 ### Knowledge:
 <a id="inicio" href="https://github.com/alanjoffre/chatgpt"> ChatGPT </a> |
-<a id="inicio" href="https://github.com/alanjoffre/cloud-aws"> Cloud - AWS </a> |
 <a id="inicio" href="https://github.com/alanjoffre/data-science"> Data-Science </a> |
 <a id="inicio" href="https://github.com/alanjoffre/docker"> Docker </a> |
 <a id="inicio" href="https://github.com/alanjoffre/github"> Github </a> |
