@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 10/10/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados/tree/master/curso-completo-2024"> Curso completo - Engenharia de Dados - 2024. </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados/tree/master/curso-completo-2024"> Engenharia de Dados - 2024. </a><br>
 </div>
 
 <div align="center">
