@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 20/10/2024 - </a> 
-<a id="inicio" href="AWS"> AWS - Certificação 2024. </a><br>
+<a id="inicio"> 30/10/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/rotatividade-de-clientes"> Machine Learning e Deep Learning - Rotatividade de Clientes. </a><br>
 </div>
 
 <div align="center">
