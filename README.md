@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 30/10/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/rotatividade-de-clientes"> Machine Learning e Deep Learning - Rotatividade de Clientes. </a><br>
+<a id="inicio"> 04/11/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/rotatividade-de-clientes"> Projeto - Churn de clientes - Machine Learning </a><br>
 </div>
 
 <div align="center">
