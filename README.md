@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 15/11/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/analise-de-sentimentos"> Projeto - Analise de Sntimentos X </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/analise-de-sentimentos"> Projeto - Analise de Sentimentos X </a><br>
 </div>
 
 <div align="center">
