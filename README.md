@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 15/11/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/analise-de-sentimentos"> Projeto - Analise de Sentimentos X </a><br>
+<a id="inicio"> 13/12/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/segmentacao_de_clientes_clustering"> Projeto - Segmentação de cliente - Algoritmo de cluster KMeans </a><br>
 </div>
 
 <div align="center">
