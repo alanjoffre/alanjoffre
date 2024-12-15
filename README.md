@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 13/12/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/segmentacao_de_clientes_clustering"> Projeto - Segmentação de cliente - KMeans | Spark | Kafka </a><br>
+<a id="inicio"> 15/12/2024 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/creditcard_fraud_detection"> Projeto - Detecção de Fraude em Cartão de crédito - Ramdon Forest | Flask | Kafka </a><br>
 </div>
 
 <div align="center">
