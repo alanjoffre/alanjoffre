@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 19/12/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/previsao_de_mercado_de_acoes"> Projeto - Previsão de Mercado de Ações - Spark | LSTM </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/previsao_de_mercado_de_acoes"> Projeto - Prev. de Mercado de Ações (TESLA): Yfinance | LSTM | LIME </a><br>
 </div>
 
 <div align="center">
