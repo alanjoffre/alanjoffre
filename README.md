@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 19/12/2024 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/previsao_de_mercado_de_acoes"> Projeto - Prev. de Mercado de Ações (TESLA): Yfinance | LSTM | LIME </a><br>
+<a id="inicio"> 03/01/2025 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/previsao_de_mercado_de_acoes"> Projeto - Prev. do mercado de câmbio entre o dólar e o real: Yfinance | Random Forest </a><br>
 </div>
 
 <div align="center">
