@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 14/01/2025 - </a> 
-<a id="inicio" href=""> Projeto: Logística e Transporte - Varios casos de Machine Learning e Redes Neurais. </a><br>
+<a id="inicio" href=""> Projeto: Logística e Transporte - 13 cenários aplicando modelos de Machine Learning e Redes Neurais. </a><br>
 </div>
 
 <div align="center">
