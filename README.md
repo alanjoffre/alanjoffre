@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 03/01/2025 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/previsao_de_mercado_de_acoes"> Projeto - Prev. do mercado de câmbio entre o dólar e o real: Yfinance | Random Forest </a><br>
+<a id="inicio"> 14/01/2025 - </a> 
+<a id="inicio" href=""> Projeto: Logística e Transporte - Varios casos de Machine Learning e Redes Neurais. </a><br>
 </div>
 
 <div align="center">
