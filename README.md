@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 18/01/2025 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/reconhecimento_optico_de_caracteres_tesseract"> Projeto: Reconhecimento Óptico de Caracteres (OCR) com Tesseract. </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/reconhecimento_facial_e_deteccao_de_objetos"> Projeto: Reconhecimento Facial e Detecção de Objetos. </a><br>
 </div>
 
 <div align="center">
