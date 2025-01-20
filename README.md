@@ -35,7 +35,7 @@
 ### New posts:
 <div align="left">
 <a id="inicio"> 20/01/2025 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte"> Projeto: Logística e Transporte - 13 cenários comn Machine Learning e Redes Neurais. </a><br>
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte"> Projeto: Logística e Transporte - 13 cenários com Machine Learning e Redes Neurais. </a><br>
 </div>
 
 <div align="center">
