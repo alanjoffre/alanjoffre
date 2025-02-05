@@ -34,8 +34,8 @@
 
 ### New posts:
 <div align="left">
-<a id="inicio"> 20/01/2025 - </a> 
-<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte"> Projeto: Logística e Transporte - 13 projetos ML/RN (2-13). </a><br>
+<a id="inicio"> 05/02/2025 - </a> 
+<a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte/4_deteccao_de_anomalias_em_tarifas_anomaly_detection"> Projeto: Logística e Transporte - Detecção de anomalias em tarifas. </a><br>
 </div>
 
 <div align="center">
