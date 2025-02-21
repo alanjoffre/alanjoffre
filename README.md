@@ -73,12 +73,12 @@
 
 ### New posts:
 <div align="left">
-  <a id="inicio"> 06/02/2025 - </a> 
-  <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte/4_deteccao_de_anomalias_em_tarifas_anomaly_detection"> Projeto: Logística e Transporte - Detecção de anomalias em tarifas. </a>
+  <a id="inicio"> 21/023/2025 - </a> 
+  <a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados/tree/master/curso-completo-2025"> Especialização: Engenharia de Dados. </a>
   <br>
 
-  <a id="inicio"> 07/02/2025 - </a> 
-  <a id="inicio" href="https://github.com/alanjoffre/jenkins"> Curso CI/CD: Jenkins | Gitflow | Kubernetes </a>
+  <a id="inicio"> 21/02/2025 - </a> 
+  <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte/5_analise_geoespacial_de_areas_de_origem_e_destino_visualizacao_de_dados"> Logistica | Transporte: Analise geoespacial de areas de origem e destino - Visualizacao de dados </a>
   <br>
 </div>
 
