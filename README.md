@@ -73,7 +73,7 @@
 
 ### New posts:
 <div align="left">
-  <a id="inicio"> 21/023/2025 - </a> 
+  <a id="inicio"> 21/02/2025 - </a> 
   <a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados/tree/master/curso-completo-2025"> Especialização: Engenharia de Dados. </a>
   <br>
 
