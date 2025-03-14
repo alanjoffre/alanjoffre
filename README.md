@@ -77,11 +77,6 @@
   <a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados/tree/master/curso-completo-2025"> Especialização: Engenharia de Dados. </a>
   <br>
 
-  <a id="inicio"> 21/02/2025 - </a> 
-  <a id="inicio" href="https://github.com/alanjoffre/data-science/tree/master/projetos/logistica_transporte/5_analise_geoespacial_de_areas_de_origem_e_destino_visualizacao_de_dados"> Logistica | Transporte: Analise geoespacial de areas de origem e destino - Visualizacao de dados </a>
-  <br>
-</div>
-
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
