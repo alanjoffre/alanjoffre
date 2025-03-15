@@ -51,10 +51,8 @@
   <a id="inicio" href="https://github.com/alanjoffre/kanban"> Kanban </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/pentaho-pdi"> Pentaho-PDI </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/powerbi"> Power BI </a> | 
-  <a id="inicio" href=""> Pyspark </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/python"> Python </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/r"> R </a> | 
-  <a id="inicio" href=""> Scala </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/scrum"> Scrum </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/scrumban"> Scrumban </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/sql"> Sql </a> |
