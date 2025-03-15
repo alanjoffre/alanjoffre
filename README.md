@@ -45,7 +45,7 @@
   | 
   <a id="inicio" href="https://github.com/alanjoffre/elasticsearch"> Elasticsearch </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados"> Engenharia de Dados </a> | 
-  <a id="inicio" href="https://github.com/alanjoffre/excel_nivel_especialista"> Excel | Nivel especialista </a> | 
+  <a id="inicio" href="https://github.com/alanjoffre/excel_nivel_especialista"> Excel: Nivel especialista </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/gitflow"> Gitflow </a> |
   <a id="inicio" href="https://github.com/alanjoffre/java"> Java </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/jenkins"> Jenkins </a> | 
