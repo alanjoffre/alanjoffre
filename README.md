@@ -45,7 +45,7 @@
   | 
   <a id="inicio" href="https://github.com/alanjoffre/elasticsearch"> Elasticsearch </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados"> Engenharia de Dados </a> | 
-  <a id="inicio" href="https://github.com/alanjoffre/excel-vba"> Excel VBA </a> | 
+  <a id="inicio" href="https://github.com/alanjoffre/excel_nivel_especialista"> Excel | Nivel especialista </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/gitflow"> Gitflow </a> |
   <a id="inicio" href="https://github.com/alanjoffre/java"> Java </a> | 
   <a id="inicio" href="https://github.com/alanjoffre/jenkins"> Jenkins </a> | 
@@ -73,8 +73,8 @@
 
 ### New posts:
 <div align="left">
-  <a id="inicio"> 21/02/2025 - </a> 
-  <a id="inicio" href="https://github.com/alanjoffre/engenharia-de-dados/tree/master/curso-completo-2025"> Especialização: Engenharia de Dados. </a>
+  <a id="inicio"> 15/03/2025 - </a> 
+  <a id="inicio" href="https://github.com/alanjoffre/excel_nivel_especialista"> Excel: Nivel Especialista </a>
   <br>
 
 <div align="center">
