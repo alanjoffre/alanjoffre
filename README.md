@@ -28,7 +28,7 @@ Plataforma de dados **open-source ponta a ponta** que espelha em OSS a arquitetu
 
 `dlt` (EL) → `dbt` (Medallion, contracts, Semantic Layer, dbt Mesh) → `Airflow` + Astronomer Cosmos → Data Quality (`Soda`) → observabilidade (`OpenLineage`) → BI (`Evidence.dev`) → CI/CD + IaC (`Terraform`).
 
-🔹 *Dashboard e lineage ao vivo no GitHub Pages.*
+🔹 **[▶ Dashboard ao vivo](https://alanjoffre.github.io/toll-analytics-platform/)** · lineage no GitHub Pages
 
 </td>
     <td width="50%" valign="top">
