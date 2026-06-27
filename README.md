@@ -129,7 +129,7 @@ Visão geral dos projetos e experiência. &nbsp;[`alanjoffre.github.io/my-profil
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=alanjoffre&label=Profile%20views&color=06B6D4&style=for-the-badge" alt="Visitas no perfil" />
+<img src="https://komarev.com/ghpvc/?username=alanjoffre&label=Profile%20views&color=06B6D4&style=for-the-badge&base=1000" alt="Visitas no perfil" />
 
 </div>
 
