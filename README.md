@@ -114,7 +114,7 @@ Visão geral dos projetos e experiência. &nbsp;[`alanjoffre.github.io/my-profil
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alanjoffre&theme=nord&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="Troféus" />
+  <img src="https://streak-stats.demolab.com?user=alanjoffre&theme=dark&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="Sequência de contribuições" />
 </div>
 
 ---
