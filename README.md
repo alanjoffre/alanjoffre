@@ -76,7 +76,7 @@
   <br>
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{alanjoffre}/count.svg" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=alanjoffre&label=Profile%20views&color=ff0000&style=for-the-badge" alt="Visitor count" />
   </p>
   <br>
 </div>
