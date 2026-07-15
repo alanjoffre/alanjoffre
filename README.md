@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=170&section=header&text=Alan%20Joffre&fontColor=ffffff&fontSize=44&desc=Data%20Engineer%20%C2%B7%20Analytics%20Engineer&descSize=18&descAlignY=64"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=170&section=header&text=Alan%20Joffre&fontColor=ffffff&fontSize=44&desc=Data%20Engineer%20%C2%B7%20Analytics%20Engineer%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=64"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=22D3EE&size=26&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Analytics+Engineer;Lakehouse+%C2%B7+Medallion+%C2%B7+Delta+Lake+%C2%B7+Unity+Catalog;dbt+%C2%B7+Databricks+%C2%B7+PySpark+%C2%B7+Airflow;Data+Quality+%C2%B7+Lineage+%C2%B7+ELT+%C2%B7+Data+Products;Building+end-to-end+data+platforms)](https://github.com/alanjoffre)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=22D3EE&size=26&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Analytics+Engineer+%7C+AI+Engineer;Lakehouse+%C2%B7+Medallion+%C2%B7+Delta+Lake+%C2%B7+Unity+Catalog;dbt+%C2%B7+Databricks+%C2%B7+PySpark+%C2%B7+Airflow;RAG+%C2%B7+Fine-tuning+%C2%B7+QLoRA+%C2%B7+vLLM+%C2%B7+LangGraph;MLOps+%C2%B7+CI+gate+%C2%B7+drift+%C2%B7+observabilidade;Building+end-to-end+data+and+AI+platforms)](https://github.com/alanjoffre)
 
 </div>
 
@@ -12,7 +12,9 @@
 
 Engenheiro de Dados / Analytics Engineer com foco em **produtos de dados end-to-end** — da arquitetura **lakehouse** à entrega de análises prontas para decisão corporativa. Atualmente concebendo e operando um produto de **auditoria e simulação de vale-pedágio** em **Databricks (Unity Catalog + Delta Lake)** modelado com **dbt**, com pipelines orquestrados, **Data Quality** e governança ponta a ponta.
 
-📍 São Paulo, Brasil &nbsp;•&nbsp; 🟢 Aberto a oportunidades de **Data Engineering / Analytics Engineering**
+Também atuo em **Engenharia de IA de produção**: RAG avaliado com rigor estatístico, fine-tuning de LLM próprio (**QLoRA** + serving em **vLLM**), agentes (**LangGraph**) e **MLOps com avaliação como gate de CI** — provado de ponta a ponta no projeto **[RodoIA](https://github.com/alanjoffre/rodoia)**.
+
+📍 São Paulo, Brasil &nbsp;•&nbsp; 🟢 Aberto a oportunidades de **Data Engineering · Analytics Engineering · AI Engineering**
 
 ---
 
@@ -20,6 +22,17 @@ Engenheiro de Dados / Analytics Engineer com foco em **produtos de dados end-to-
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+
+**🤖 [RodoIA](https://github.com/alanjoffre/rodoia)** — AI Engineering ponta a ponta (open source)
+
+Do **backprop escrito à mão** ao **serving em produção** sobre dados públicos da ANTT: RAG avaliado + fine-tuning **QLoRA** + agente **LangGraph** + **MLOps com gate no CI**.
+
+`F1 0,13→0,77` · `hit@5 0,62` · `roteamento 0,95` · `gate 12/12`
+
+🔹 **[▶ Demo ao vivo](https://huggingface.co/spaces/alanjoffre/rodoia-rag)** · retrieval E5 no navegador (R$0)
+
+</td>
     <td width="50%" valign="top">
 
 **🏗️ [toll-analytics-platform](https://github.com/alanjoffre/toll-analytics-platform)**
@@ -31,33 +44,28 @@ Plataforma de dados **open-source ponta a ponta** que espelha em OSS a arquitetu
 🔹 **[▶ Dashboard ao vivo](https://alanjoffre.github.io/toll-analytics-platform/)** · lineage no GitHub Pages
 
 </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
-**🤖 Aira — SaaS de IA (produção na AWS)**
+**🧠 Aira — SaaS de IA (produção na AWS)**
 
 Projeto próprio em produção: ciclo completo de dados/backend.
 
 Backend assíncrono **Python/FastAPI**, **PostgreSQL** (multi-org, migração em produção sem perda), integração **LLM (Anthropic Claude)** com controle de custo, **CI/CD** com testes contra Postgres, SAST e segurança (CSP, masking de PII, auditoria hash-chain).
 
 </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 **📊 [data-science](https://github.com/alanjoffre/data-science)**
 
-Portfólio de ML aplicado: séries temporais, classificação, clusterização, NLP e apps em **Streamlit** publicados na web.
-
-</td>
-    <td width="50%" valign="top">
-
-**🌐 [Portfolio](https://github.com/alanjoffre/portfolio)**
-
-Visão geral dos projetos e experiência. &nbsp;[`alanjoffre.github.io/my-profile`](https://alanjoffre.github.io/my-profile/)
+Portfólio de ML aplicado: séries temporais, classificação, clusterização, NLP e visão computacional, com apps em **Streamlit** publicados na web.
 
 </td>
   </tr>
 </table>
+
+🌐 **[Portfólio completo](https://github.com/alanjoffre/portfolio)** &nbsp;·&nbsp; [`alanjoffre.github.io/my-profile`](https://alanjoffre.github.io/my-profile/)
 
 ---
 
@@ -70,6 +78,15 @@ Visão geral dos projetos e experiência. &nbsp;[`alanjoffre.github.io/my-profil
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+**IA / LLM Engineering**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain_·_LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-4B2E83?style=for-the-badge&logo=v&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 **Lakehouse & Data Engineering**
 
