@@ -10,7 +10,7 @@
 
 ### 👋 Sobre
 
-Engenheiro de Dados / Analytics Engineer com foco em **produtos de dados end-to-end** — da arquitetura **lakehouse** à entrega de análises prontas para decisão corporativa. Concebi e operei um produto de **auditoria e simulação de vale-pedágio** em **Databricks (Unity Catalog + Delta Lake)** modelado com **dbt**, com pipelines orquestrados, **Data Quality** e governança ponta a ponta.
+Engenheiro de Dados / Analytics Engineer com foco em **produtos de dados end-to-end** — da arquitetura **lakehouse** à entrega de análises prontas para decisão corporativa. Como consultor (Ser Mais Digital), concebi e operei um produto de **auditoria e simulação de vale-pedágio** em **Azure Databricks (Unity Catalog + Delta Lake)** modelado com **dbt**, com pipelines orquestrados, **Data Quality** e governança ponta a ponta.
 
 Também atuo em **Engenharia de IA de produção**: RAG avaliado com rigor estatístico, fine-tuning de LLM próprio (**QLoRA** + serving em **vLLM**), agentes (**LangGraph**) e **MLOps com avaliação como gate de CI** — provado de ponta a ponta no projeto **[RodoIA](https://github.com/alanjoffre/rodoia)**.
 
