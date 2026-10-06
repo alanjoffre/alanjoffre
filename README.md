@@ -10,7 +10,7 @@
 
 ### 👋 Sobre
 
-Engenheiro de Dados / Analytics Engineer com foco em **produtos de dados end-to-end** — da arquitetura **lakehouse** à entrega de análises prontas para decisão corporativa. Atualmente concebendo e operando um produto de **auditoria e simulação de vale-pedágio** em **Databricks (Unity Catalog + Delta Lake)** modelado com **dbt**, com pipelines orquestrados, **Data Quality** e governança ponta a ponta.
+Engenheiro de Dados / Analytics Engineer com foco em **produtos de dados end-to-end** — da arquitetura **lakehouse** à entrega de análises prontas para decisão corporativa. Concebi e operei um produto de **auditoria e simulação de vale-pedágio** em **Databricks (Unity Catalog + Delta Lake)** modelado com **dbt**, com pipelines orquestrados, **Data Quality** e governança ponta a ponta.
 
 Também atuo em **Engenharia de IA de produção**: RAG avaliado com rigor estatístico, fine-tuning de LLM próprio (**QLoRA** + serving em **vLLM**), agentes (**LangGraph**) e **MLOps com avaliação como gate de CI** — provado de ponta a ponta no projeto **[RodoIA](https://github.com/alanjoffre/rodoia)**.
 
@@ -21,6 +21,19 @@ Também atuo em **Engenharia de IA de produção**: RAG avaliado com rigor estat
 ### ⭐ Projetos em destaque
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+
+**🧱 [oss-lakehouse](https://github.com/alanjoffre/oss-lakehouse)** — Engenharia de dados em Databricks/Azure, explicada e executada
+
+Lakehouse completo sobre **eventos reais do GitHub** (GH Archive, API REST e stream da Wikimedia) em **18 notebooks executados**, apoiados num pacote Python testado: ingestão incremental, **MERGE e SCD2**, **Structured Streaming**, modelagem dimensional, qualidade e contratos, **performance no Spark**, Delta Lake por dentro, governança/LGPD, **IA aplicada ao pipeline com avaliação**, CI/CD com bundles e **Terraform para Azure**.
+
+`PySpark 4.2` · `Delta Lake 4.4` · `184 testes` · `CI verde` · roda local, sem conta de nuvem
+
+🔹 **[▶ Guia de estudo](https://github.com/alanjoffre/oss-lakehouse/blob/main/GUIA_DE_ESTUDO.md)** · 199 perguntas respondidas, cada uma com a demonstração rodando
+
+</td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
 
@@ -37,7 +50,7 @@ Do **backprop escrito à mão** ao **serving em produção** sobre dados públic
 
 **🏗️ [toll-analytics-platform](https://github.com/alanjoffre/toll-analytics-platform)**
 
-Plataforma de dados **open-source ponta a ponta** que espelha em OSS a arquitetura que aplico em produção.
+Plataforma de dados **open-source ponta a ponta** que espelha em OSS a arquitetura que apliquei em produção.
 
 `dlt` (EL) → `dbt` (Medallion, contracts, Semantic Layer, dbt Mesh) → `Airflow` + Astronomer Cosmos → Data Quality (`Soda`) → observabilidade (`OpenLineage`) → BI (`Evidence.dev`) → CI/CD + IaC (`Terraform`).
 
