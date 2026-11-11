@@ -9,11 +9,11 @@ Nos projetos abaixo, cada número vem de um teste ou de uma medição que roda n
 ## Projetos open source
 
 - **[oss-lakehouse](https://github.com/alanjoffre/oss-lakehouse)** — lakehouse sobre dados reais do GitHub. 18 notebooks executados e mais de 180 testes, com CI. [Guia de estudo](https://github.com/alanjoffre/oss-lakehouse/blob/main/GUIA_DE_ESTUDO.md) com 199 perguntas respondidas.
-- **[RodoIA](https://github.com/alanjoffre/rodoia)** — engenharia de IA de ponta a ponta, sobre dados públicos da ANTT. Fine-tuning com F1 de 0,13 para 0,77; avaliação como gate de CI (gate 30/30). [Demo ao vivo](https://huggingface.co/spaces/alanjoffre/rodoia-rag)
-- **[Ledgerly Bank](https://github.com/alanjoffre/ledgerly-bank)** — banco digital fictício em Java, com Pix em Saga e Outbox. 1.141 testes e 96,7% de mutação no domínio.
 - **[toll-analytics-platform](https://github.com/alanjoffre/toll-analytics-platform)** — plataforma de dados de ponta a ponta com dlt, dbt, Airflow, Soda e Terraform, construída do zero com dados sintéticos. [Dashboard ao vivo](https://alanjoffre.github.io/toll-analytics-platform/)
+- **[RodoIA](https://github.com/alanjoffre/rodoia)** — engenharia de IA de ponta a ponta, sobre dados públicos da ANTT. Fine-tuning com F1 de 0,13 para 0,77; avaliação como gate de CI (gate 30/30). [Demo ao vivo](https://huggingface.co/spaces/alanjoffre/rodoia-rag)
 - **[RodoQuery](https://github.com/alanjoffre/rodoquery)** — Text-to-SQL sobre camada semântica: 100% contra 44,5% do SQL direto (n=146), em dados reais da ANTT.
 - **[NãoConsta](https://github.com/alanjoffre/naoconsta)** — RAG contratual avaliado pelo que recusa responder: 510 contratos e 20.910 perguntas.
+- **[Ledgerly Bank](https://github.com/alanjoffre/ledgerly-bank)** — banco digital fictício em Java, com Pix em Saga e Outbox. 1.141 testes e 96,7% de mutação no domínio.
 
 Todos os estudos de caso, com as decisões e os números, estão no **[portfólio](https://github.com/alanjoffre/portfolio)**.
 
