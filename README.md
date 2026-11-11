@@ -1,12 +1,25 @@
-# Alan Joffre
+<img src="assets/faixa-v1.svg" alt="Alan Joffre, Engenheiro de Dados na Noron.dev, São Paulo, SP, aberto a oportunidades" width="100%">
 
-**Engenheiro de Dados** · [Noron.dev](https://noron.dev) · São Paulo, SP
+<p>
+  <a href="https://alanjoffre.github.io/my-profile/assets/curriculo_alanjoffre_ptbr.pdf"><img src="assets/btn-curriculo-v1.svg" alt="Baixar currículo (PDF)" width="194" height="52"></a>
+  <a href="https://www.linkedin.com/in/alanjoffre"><img src="assets/btn-linkedin-v1.svg" alt="LinkedIn" width="106" height="52"></a>
+  <a href="https://alanjoffre.github.io/my-profile/"><img src="assets/btn-pagina-v1.svg" alt="Página pessoal" width="148" height="52"></a>
+  <a href="mailto:alanjoffre01@gmail.com"><img src="assets/btn-email-v1.svg" alt="E-mail" width="91" height="52"></a>
+</p>
 
-Construo produtos de dados de ponta a ponta, do lakehouse (Databricks, Delta Lake e dbt) à IA aplicada com avaliação (RAG, fine-tuning e Text-to-SQL). Alocado em cliente de mobilidade e pagamentos, desenhei um lakehouse em Databricks e dbt que reduziu o tempo de apuração de até 20 para 2 dias. Hoje sou o responsável técnico pelo desenvolvimento e pela operação da Aira, produto de IA da Noron.dev.
+Construo produtos de dados de ponta a ponta, do lakehouse (Databricks, Delta Lake e dbt) à IA aplicada com avaliação (RAG, fine-tuning e Text-to-SQL). Alocado em cliente de mobilidade e pagamentos, desenhei um lakehouse em Databricks e dbt que reduziu o tempo de apuração de até 20 para 2 dias. Hoje sou o responsável técnico pelo desenvolvimento e pela operação da Aira, produto de IA da [Noron.dev](https://noron.dev).
 
-Nos projetos abaixo, cada número vem de um teste ou de uma medição que roda no repositório. Os projetos abertos são feitos com apoio de assistente de IA; o escopo, as decisões de arquitetura e as medições são meus, e revisei o resultado.
+## Em produção
+
+**Aira**, produto de IA da Noron.dev, em produção na AWS desde maio/2026. Sou o responsável técnico pelo desenvolvimento e pela operação. Código fechado.
+
+- **IA com permissão e fonte:** conduzi o desenho para que a IA consulte os arquivos da empresa só com ferramentas de leitura (recuperação agêntica), responda só com o que aquela pessoa tem permissão de ver e cite as fontes.
+- **Avaliação e custo:** respostas avaliadas (mais de 30 casos em 7 categorias, dados fictícios, conferência determinística) antes de mudar prompt, modelo ou esforço; fila, limite por minuto, cota mensal e teto de gasto que bloqueia ou passa ao modelo mais econômico.
+- **Operação:** Python/FastAPI e PostgreSQL em Docker na AWS; mais de 5.000 testes de back-end, trilha de auditoria encadeada por hash, backup diário cifrado (o deploy só segue com o backup externo confirmado) e mais de 60 versões publicadas.
 
 ## Projetos open source
+
+Nos projetos abaixo, cada número vem de um teste ou de uma medição que roda no repositório. Os projetos abertos são feitos com apoio de assistente de IA; o escopo, as decisões de arquitetura e as medições são meus, e revisei o resultado.
 
 - **[oss-lakehouse](https://github.com/alanjoffre/oss-lakehouse)** — lakehouse sobre dados reais do GitHub. 18 notebooks executados e mais de 180 testes, com CI. [Guia de estudo](https://github.com/alanjoffre/oss-lakehouse/blob/main/GUIA_DE_ESTUDO.md) com 199 perguntas respondidas.
 - **[toll-analytics-platform](https://github.com/alanjoffre/toll-analytics-platform)** — plataforma de dados de ponta a ponta com dlt, dbt, Airflow, Soda e Terraform, construída do zero com dados sintéticos. [Dashboard ao vivo](https://alanjoffre.github.io/toll-analytics-platform/)
@@ -17,21 +30,13 @@ Nos projetos abaixo, cada número vem de um teste ou de uma medição que roda n
 
 Todos os estudos de caso, com as decisões e os números, estão no **[portfólio](https://github.com/alanjoffre/portfolio)**.
 
-## Em produção
-
-**Aira**, produto de IA da Noron.dev, em produção na AWS desde maio/2026. Sou o responsável técnico pelo desenvolvimento e pela operação. Código fechado.
-
-- **IA com permissão e fonte:** conduzi o desenho para que a IA consulte os arquivos da empresa só com ferramentas de leitura (recuperação agêntica), responda só com o que aquela pessoa tem permissão de ver e cite as fontes.
-- **Avaliação e custo:** respostas avaliadas (mais de 30 casos em 7 categorias, dados fictícios, conferência determinística) antes de mudar prompt, modelo ou esforço; fila, limite por minuto, cota mensal e teto de gasto que bloqueia ou passa ao modelo mais econômico.
-- **Operação:** Python/FastAPI e PostgreSQL em Docker na AWS; mais de 5.000 testes de back-end, trilha de auditoria encadeada por hash, backup diário cifrado (o deploy só segue com o backup externo confirmado) e mais de 60 versões publicadas.
-
 ## Stack
 
-**Dados:** Python · SQL · Apache Spark (PySpark) · Databricks · Delta Lake · dbt · dlt · Airflow · Kafka · DuckDB · PostgreSQL · ETL/ELT<br>
-**Qualidade e governança de dados:** testes dbt · Soda · OpenLineage · Unity Catalog<br>
-**IA e MLOps:** LLMs (APIs de modelos de linguagem) · avaliação de LLMs (evals) · RAG · LangGraph · Qdrant · QLoRA · vLLM · PyTorch · Hugging Face · MLflow · DVC<br>
-**Cloud e DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions<br>
-**Back-end e front-end:** FastAPI · Java (Spring Boot e Quarkus) · SvelteKit · TypeScript
+**Dados:** `Python` `SQL` `Apache Spark (PySpark)` `Databricks` `Delta Lake` `dbt` `dlt` `Airflow` `Kafka` `DuckDB` `PostgreSQL` `ETL/ELT`<br>
+**Qualidade e governança de dados:** `testes dbt` `Soda` `OpenLineage` `Unity Catalog`<br>
+**IA e MLOps:** `LLMs (APIs de modelos de linguagem)` `avaliação de LLMs (evals)` `RAG` `LangGraph` `Qdrant` `QLoRA` `vLLM` `PyTorch` `Hugging Face` `MLflow` `DVC`<br>
+**Cloud e DevOps:** `AWS` `Azure` `Docker` `Terraform` `GitHub Actions`<br>
+**Back-end e front-end:** `FastAPI` `Java (Spring Boot e Quarkus)` `SvelteKit` `TypeScript`
 
 ## Contato
 
