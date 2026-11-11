@@ -19,14 +19,19 @@ Todos os estudos de caso, com as decisões e os números, estão no **[portfóli
 
 ## Em produção
 
-**Aira**, produto de IA da Noron, em produção na AWS: back-end assíncrono em Python/FastAPI, PostgreSQL e LLM (Claude) com controle de custo. Código fechado.
+**Aira**, produto de IA da Noron, em produção na AWS desde maio/2026. Sou o responsável técnico pelo desenvolvimento e pela operação. Código fechado.
+
+- **IA com permissão e fonte:** o Claude consulta os arquivos da empresa só com ferramentas de leitura (recuperação agêntica), responde com o que aquela pessoa tem permissão de ver e cita as fontes.
+- **Avaliação e custo:** respostas avaliadas (mais de 30 casos em 7 categorias, dados fictícios, conferência determinística) antes de mudar prompt, modelo ou esforço; fila, limite por minuto, cota mensal e teto de gasto que bloqueia ou passa ao modelo mais econômico.
+- **Operação:** Python/FastAPI e PostgreSQL em Docker na AWS; mais de 5.000 testes de back-end, trilha de auditoria encadeada por hash, backup diário cifrado (o deploy só segue com o backup externo confirmado) e mais de 60 versões publicadas.
 
 ## Stack
 
-**Dados:** Python · SQL · PySpark · Databricks · Delta Lake · dbt · Airflow · Kafka · DuckDB · PostgreSQL<br>
-**IA:** LLM (Claude) · RAG · LangGraph · Qdrant · QLoRA · vLLM · PyTorch<br>
+**Dados:** Python · SQL · Apache Spark (PySpark) · Databricks · Delta Lake · dbt · dlt · Airflow · Kafka · DuckDB · PostgreSQL · ETL/ELT<br>
+**Qualidade e governança de dados:** testes dbt · Soda · OpenLineage · Unity Catalog<br>
+**IA e MLOps:** LLM (Claude) · avaliação de LLMs (evals) · RAG · LangGraph · Qdrant · QLoRA · vLLM · PyTorch · Hugging Face · MLflow · DVC<br>
 **Cloud e DevOps:** AWS · Azure · Docker · Terraform · GitHub Actions<br>
-**Back-end:** FastAPI · Java (Spring Boot e Quarkus)
+**Back-end e front-end:** FastAPI · Java (Spring Boot e Quarkus) · SvelteKit · TypeScript
 
 ## Contato
 
