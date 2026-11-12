@@ -7,11 +7,11 @@
   <a href="mailto:alanjoffre01@gmail.com"><img src="assets/btn-email-v1.svg" alt="E-mail" width="91" height="52"></a>
 </p>
 
-Construo produtos de dados de ponta a ponta, do lakehouse (Databricks, Delta Lake e dbt) à IA aplicada com avaliação (RAG, fine-tuning e Text-to-SQL). Alocado em cliente de mobilidade e pagamentos, desenhei um lakehouse em Databricks e dbt que reduziu o tempo de apuração de até 20 para 2 dias. Hoje sou o responsável técnico pelo desenvolvimento e pela operação da Aira, produto de IA da [Noron.dev](https://noron.dev).
+Construo produtos de dados de ponta a ponta, do lakehouse (Databricks, Delta Lake e dbt) à IA aplicada com avaliação (RAG, fine-tuning e Text-to-SQL). Alocado em cliente de mobilidade e pagamentos, desenhei um lakehouse em Databricks e dbt que reduziu o tempo de apuração de até 20 para 2 dias. Hoje respondo pelo desenvolvimento e pela operação da Aira, produto de IA da [Noron.dev](https://noron.dev).
 
 ## Em produção
 
-**Aira**, produto de IA da Noron.dev, em produção na AWS desde maio/2026, em instância dedicada por cliente. Respondo pelo desenvolvimento e pela operação, como responsável técnico. Código fechado: os números abaixo vêm do repositório privado e da operação, e não podem ser conferidos num repositório público.
+**Aira**, produto de IA da Noron.dev, em produção na AWS desde maio/2026, em instância dedicada por cliente. Respondo pelo desenvolvimento e pela operação. Código fechado: os números abaixo vêm do repositório privado e da operação, e não podem ser conferidos num repositório público.
 
 - **Problema:** cada pessoa da empresa precisa perguntar, em português, sobre os arquivos da própria empresa e receber a resposta com a fonte, sem acesso ao que não tem permissão de ver.
 - **Decisão:** conduzi o desenho da IA com ferramentas só de leitura (recuperação agêntica), confinada às pastas que cada pessoa tem permissão de ver, com os arquivos consultados listados como fonte; e a avaliação das respostas antes de mudar prompt, modelo ou esforço.
