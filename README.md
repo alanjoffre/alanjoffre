@@ -24,6 +24,7 @@ Nos projetos abaixo, cada número vem de um teste ou de uma medição que roda n
 
 - **[oss-lakehouse](https://github.com/alanjoffre/oss-lakehouse)** — lakehouse sobre dados reais do GitHub. 18 notebooks executados e mais de 180 testes, com CI. [Guia de estudo](https://github.com/alanjoffre/oss-lakehouse/blob/main/GUIA_DE_ESTUDO.md) com 199 perguntas respondidas.
 - **[toll-analytics-platform](https://github.com/alanjoffre/toll-analytics-platform)** — plataforma de dados de ponta a ponta com dlt, dbt, Airflow e Soda, construída do zero com dados sintéticos; executada em DuckDB e desenhada para Databricks (Terraform validado, sem `apply`); CI/CD com 10 workflows. [Dashboard ao vivo](https://alanjoffre.github.io/toll-analytics-platform/)
+- **[pg-cdc-lakehouse](https://github.com/alanjoffre/pg-cdc-lakehouse)** — replicação por CDC de PostgreSQL para Delta Lake, com Debezium e Kafka. Em 3 falhas injetadas e 1 operação normal, a cópia bateu com a origem em contagem, chaves, conteúdo e hash (dado sintético, uma máquina). 20 testes, com CI.
 - **[RodoIA](https://github.com/alanjoffre/rodoia)** — engenharia de IA de ponta a ponta, sobre dados públicos da ANTT. Fine-tuning com F1 de 0,13 para 0,77; avaliação como gate de CI (gate 30/30). [Demo ao vivo](https://huggingface.co/spaces/alanjoffre/rodoia-rag)
 - **[RodoQuery](https://github.com/alanjoffre/rodoquery)** — Text-to-SQL sobre camada semântica: 100% contra 44,5% do SQL direto (n=146, dados reais da ANTT; o 100% é teto do instrumento).
 - **[NãoConsta](https://github.com/alanjoffre/naoconsta)** — RAG contratual avaliado pelo que recusa responder: 510 contratos e 20.910 perguntas.
@@ -33,7 +34,7 @@ Todos os estudos de caso, com as decisões e os números, estão no **[portfóli
 
 ## Stack
 
-**Dados:** `Python` `SQL` `Apache Spark (PySpark)` `Databricks` `Delta Lake` `dbt` `dlt` `Airflow` `Kafka` `DuckDB` `PostgreSQL` `ETL/ELT`<br>
+**Dados:** `Python` `SQL` `Apache Spark (PySpark)` `Databricks` `Delta Lake` `dbt` `dlt` `Airflow` `Kafka` `Debezium` `DuckDB` `PostgreSQL` `ETL/ELT`<br>
 **Qualidade e governança de dados:** `testes dbt` `Soda` `OpenLineage` `Unity Catalog`<br>
 **IA e MLOps:** `LLMs (APIs de modelos de linguagem)` `avaliação de LLMs (evals)` `RAG` `LangGraph` `Qdrant` `QLoRA` `vLLM` `PyTorch` `Hugging Face` `MLflow` `DVC`<br>
 **Cloud e DevOps:** `AWS` `Azure` `Docker` `Terraform` `GitHub Actions`<br>
